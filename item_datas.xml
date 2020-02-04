@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemDatas Version="1.0">
+    <ItemData itemId="1" itemName="抗nRNP/Sm抗体IgG" itemAb="Anti-nRNP/Sm IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="2" itemName="抗Sm抗体IgG" itemAb="Anti-Sm IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="3" itemName="Anti-SSA IgG" itemAb="Anti-SSA IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="4" itemName="Anti- Ro52 IgG" itemAb="Anti- Ro52 IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="5" itemName="Anti-SSB IgG" itemAb="Anti-SSB IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="6" itemName="Anti-Scl-70 IgG" itemAb="Anti-Scl-70 IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="7" itemName="Anti-PM-Scl IgG" itemAb="Anti-PM-Scl IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="8" itemName="Anti-Jo-1 IgG" itemAb="Anti-Jo-1 IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="9" itemName="Anti-CENP B IgG" itemAb="Anti-CENP B IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="10" itemName="Anti-dsDNA IgG" itemAb="Anti-dsDNA IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="11" itemName="Anti-Nuclesomens IgG" itemAb="Anti-Nuclesomens IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="12" itemName="Anti-Histone IgG" itemAb="Anti-Histone IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="13" itemName="Anti-Rib-P IgG" itemAb="Anti-Rib-P IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="14" itemName="Anti-M2-3E IgG" itemAb="Anti-M2-3E IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+
+    <ItemData itemId="21" itemName="Anti-Cardiolipin" itemAb="Anti-Cardiolipin" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="22" itemName="Anti-Cardiolipin IgA" itemAb="Anti-Cardiolipin IgA" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="23" itemName="Anti-Cardiolipin IgM" itemAb="Anti-Cardiolipin IgM" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="24" itemName="Anti-Cardiolipin IgG" itemAb="Anti-Cardiolipin IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="25" itemName="Anti-β2-GP1 IgG" itemAb="Anti-β2-GP1 IgG" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="26" itemName="Anti-β2-GP1 IgM" itemAb="Anti-β2-GP1 IgM" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="27" itemName="Anti-β2-GP1 IgA" itemAb="Anti-β2-GP1 IgA" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+    <ItemData itemId="28" itemName="Anti-β2-GP1" itemAb="Anti-β2-GP1" chromaUnit="RU/mL" curveMeth="0"
+        referRangeU="1" referRangeD="200" >
+        <ReferRangeTxt> 0.34-5.5 </ReferRangeTxt>
+    </ItemData>
+
+</ItemDatas>

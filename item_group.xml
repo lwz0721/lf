@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<itemGroups>
+    <itemGroup id="1" name="抗核抗体（14组合）"
+        igDoseWaste="10" igDoseWashing="10" igDoseSubstrate="10" igDoseDilution="10"
+        igDoseReagent1="10" igDoseReagent2="10" igDoseReagent3="10">
+        <ItemDatas itemId="1" idsLocation="1" />
+        <ItemDatas itemId="2" idsLocation="2" />
+        <ItemDatas itemId="3" idsLocation="3" />
+        <ItemDatas itemId="4" idsLocation="4" />
+        <ItemDatas itemId="5" idsLocation="5" />
+        <ItemDatas itemId="6" idsLocation="6" />
+        <ItemDatas itemId="7" idsLocation="7" />
+        <ItemDatas itemId="8" idsLocation="8" />
+        <ItemDatas itemId="9" idsLocation="9" />
+        <ItemDatas itemId="10" idsLocation="10" />
+        <ItemDatas itemId="11" idsLocation="11" />
+        <ItemDatas itemId="12" idsLocation="12" />
+        <ItemDatas itemId="13" idsLocation="13" />
+        <ItemDatas itemId="14" idsLocation="14" />
+    </itemGroup>
+    <itemGroup id="2" name="磷脂综合症自身抗体（8组合）"
+        igDoseWaste="10" igDoseWashing="10" igDoseSubstrate="10" igDoseDilution="10"
+        igDoseReagent1="10" igDoseReagent2="10" igDoseReagent3="10">
+        <ItemDatas itemId="21" idsLocation="1" />
+        <ItemDatas itemId="22" idsLocation="2" />
+        <ItemDatas itemId="23" idsLocation="3" />
+        <ItemDatas itemId="24" idsLocation="4" />
+        <ItemDatas itemId="25" idsLocation="5" />
+        <ItemDatas itemId="26" idsLocation="6" />
+        <ItemDatas itemId="27" idsLocation="7" />
+        <ItemDatas itemId="28" idsLocation="8" />
+    </itemGroup>
+</itemGroups>
