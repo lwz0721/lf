@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<itemGroups>
-    <itemGroup id="1" name="抗核抗体（14组合）"
+<itemGroups Version="1.0">
+    <itemGroup igId="1" igName="抗核抗体（14组合）"
         igDoseWaste="10" igDoseWashing="10" igDoseSubstrate="10" igDoseDilution="10"
         igDoseReagent1="10" igDoseReagent2="10" igDoseReagent3="10">
         <ItemDatas itemId="1" idsLocation="1" />
@@ -18,7 +18,7 @@
         <ItemDatas itemId="13" idsLocation="13" />
         <ItemDatas itemId="14" idsLocation="14" />
     </itemGroup>
-    <itemGroup id="2" name="磷脂综合症自身抗体（8组合）"
+    <itemGroup igId="2" igName="磷脂综合症自身抗体（8组合）"
         igDoseWaste="10" igDoseWashing="10" igDoseSubstrate="10" igDoseDilution="10"
         igDoseReagent1="10" igDoseReagent2="10" igDoseReagent3="10">
         <ItemDatas itemId="21" idsLocation="1" />
